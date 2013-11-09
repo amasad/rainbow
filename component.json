@@ -1,0 +1,35 @@
+{
+  "name": "rainbow",
+  "repo": "amasad/rainbow",
+  "description": "Simple syntax highlighting library written in javascript",
+  "version": "1.2.0",
+  "keywords": [
+    "code",
+    "highlight",
+    "highlighter"
+  ],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "js/rainbow.js",
+    "js/language/c.js",
+    "js/language/coffeescript.js",
+    "js/language/csharp.js",
+    "js/language/css.js",
+    "js/language/d.js",
+    "js/language/generic.js",
+    "js/language/go.js",
+    "js/language/haskell.js",
+    "js/language/html.js",
+    "js/language/java.js",
+    "js/language/javascript.js",
+    "js/language/lua.js",
+    "js/language/php.js",
+    "js/language/python.js",
+    "js/language/r.js",
+    "js/language/ruby.js",
+    "js/language/scheme.js",
+    "js/language/shell.js",
+    "js/language/smalltalk.js"
+  ]
+}
