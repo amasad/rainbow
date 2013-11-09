@@ -18,7 +18,7 @@
  * @preserve @version 1.2
  * @url rainbowco.de
  */
-window['Rainbow'] = (function() {
+module.exports = window['Rainbow'] = (function() {
 
     /**
      * array of replacements to process at the end
