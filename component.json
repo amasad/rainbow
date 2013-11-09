@@ -32,5 +32,8 @@
     "js/language/scheme.js",
     "js/language/shell.js",
     "js/language/smalltalk.js"
+  ],
+  "styles": [
+    "themes/github.css"
   ]
 }
